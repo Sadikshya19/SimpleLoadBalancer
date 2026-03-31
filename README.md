@@ -11,5 +11,5 @@ The client doesn’t know which server actually handled it.
 Reverse proxy is used so that the client doesn’t know which server actually handled it.
 
 for now,
-need to run the servers localhost:5001, localhost:5002, localhost:5003 in each terminal
+need to run the servers localhost:5001, localhost:5002, localhost:5003 in each terminal,
 everytime localhost:5000 is refreshed in browser, text shows which server actually handles the request.
