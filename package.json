@@ -1,0 +1,17 @@
+{
+  "name": "simpleloadbalancer",
+  "version": "1.0.0",
+  "description": "this is mini loadbalancer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server"
+  },
+  "author": "sadikshya",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "http-proxy": "^1.18.1"
+  }
+}
